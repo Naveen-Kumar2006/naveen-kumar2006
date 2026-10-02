@@ -1,23 +1,25 @@
 # Hi, I'm Naveen Kumar 👋
 
-### 🤖 Aspiring Machine Learning Engineer | AI & Data Science Student
+### 🤖 Aspiring AI/ML Engineer | AI & Data Science Student
 
 🎓 B.Tech Artificial Intelligence & Data Science
 📍 Tamil Nadu, India 🇮🇳
 
-I'm an Artificial Intelligence & Data Science undergraduate passionate about **Machine Learning, Deep Learning, Generative AI, and MLOps**. I enjoy learning new technologies, building AI-powered applications, and solving real-world problems through hands-on experience.
+I'm an Artificial Intelligence & Data Science undergraduate passionate about **Machine Learning, Deep Learning, Generative AI, Computer Vision, and MLOps**. I enjoy learning new technologies, building AI-powered applications, and solving real-world problems through hands-on projects.
 
 ---
 
 ## 👨‍💻 About Me
 
 * 🎓 B.Tech student specializing in **Artificial Intelligence & Data Science**
-* 🤖 Focused on **Machine Learning and Deep Learning**
-* 🐍 Building ML applications using **Python**
+* 🤖 Building projects in **Machine Learning and Deep Learning**
+* 🐍 Developing AI/ML applications using **Python**
 * 🧠 Exploring **LLMs and Generative AI**
 * 🔎 Learning **RAG, Embeddings, Vector Databases, and LangChain**
-* 🚀 Exploring **MLOps and Model Deployment**
-* 🎯 Goal: **Become a Machine Learning Engineer**
+* 👁️ Exploring **Computer Vision and Deep Learning**
+* 🚀 Learning **MLOps, APIs, Docker, and Model Deployment**
+* ⚙️ Interested in building **production-ready AI systems**
+* 🎯 Primary goal: **Become an AI/ML Engineer**
 
 ---
 
@@ -37,16 +39,21 @@ I'm an Artificial Intelligence & Data Science undergraduate passionate about **M
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
+**Core ML:**
+Supervised Learning • Regression • Classification • Feature Engineering • Model Evaluation • Cross-Validation • Hyperparameter Tuning • ML Pipelines
+
 ---
 
-### 🧠 Deep Learning
+### 🧠 Deep Learning & Computer Vision
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
 
 * Neural Networks
 * CNN
+* Image Classification
 * Computer Vision
+* Model Training & Evaluation
 
 ---
 
@@ -55,7 +62,7 @@ I'm an Artificial Intelligence & Data Science undergraduate passionate about **M
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
 
-**Currently exploring:**
+**Exploring:**
 
 * Large Language Models (LLMs)
 * Retrieval-Augmented Generation (RAG)
@@ -65,22 +72,24 @@ I'm an Artificial Intelligence & Data Science undergraduate passionate about **M
 * Document Loading & Chunking
 * Semantic Search
 * LLM Application Development
+* Local LLMs
 
 ---
 
-### 🚀 Backend & MLOps
+### 🚀 Backend, Deployment & MLOps
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
 
-**Learning:**
-
 * REST APIs
+* Model Serving
 * Model Deployment
 * Experiment Tracking
 * ML Pipelines
-* Workflow Orchestration
+* API Development
+* Dockerized Applications
+* MLOps Fundamentals
 
 ---
 
@@ -104,9 +113,9 @@ Generative AI & LLMs
        ↓
 RAG & Vector Databases
        ↓
-MLOps
+Computer Vision
        ↓
-Model Deployment
+MLOps & Model Deployment
        ↓
 Production AI Systems
 ```
@@ -116,6 +125,7 @@ Currently focusing on:
 * 📈 Machine Learning
 * 🧠 Deep Learning
 * ✨ Generative AI & LLMs
+* 👁️ Computer Vision
 * 🔎 RAG & Vector Databases
 * 🔗 LangChain
 * 🦙 Ollama
@@ -127,9 +137,30 @@ Currently focusing on:
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Interests
 
-> **Become a Machine Learning Engineer capable of building, deploying, and maintaining production-ready AI systems.**
+I'm exploring opportunities across the **AI/ML engineering ecosystem**, including:
+
+* 🤖 **Machine Learning Engineer**
+* 🧠 **AI Engineer**
+* ✨ **Generative AI Engineer**
+* 👁️ **Computer Vision Engineer**
+* 🧪 **Applied AI Engineer**
+* 📊 **Data Scientist**
+* ⚙️ **MLOps Engineer**
+* 🔧 **AI/ML Backend Engineer**
+
+My primary career direction is **AI/ML Engineering**, with a focus on building, deploying, and maintaining intelligent applications.
+
+---
+
+## 🌱 Learning Philosophy
+
+```text
+Learn → Experiment → Build → Deploy → Improve
+```
+
+I believe the best way to learn AI is by combining **fundamentals with hands-on projects** and taking models beyond notebooks into usable applications.
 
 ---
 
@@ -146,10 +177,4 @@ https://www.linkedin.com/in/naveen-kumar-t-37a920350/
 
 ---
 
-## ⚡ My Learning Journey
-
-```text
-Learn → Experiment → Build → Deploy → Improve
-```
-
-> **Code • Learn • Build • Repeat. 🚀**
+> **Code • Learn • Build • Deploy • Repeat. 🚀**
